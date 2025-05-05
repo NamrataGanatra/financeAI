@@ -1,6 +1,4 @@
-# Claude Financial Data Analyst
-
-![hero](public/hero.png)
+# Finance AI - Your Personal Financial Data Analyst
 
 A sophisticated Next.js application that combines Claude's capabilities with interactive data visualization to analyze financial data via chat.
 
@@ -25,31 +23,6 @@ A sophisticated Next.js application that combines Claude's capabilities with int
 
 - Node.js 18+ installed
 - Anthropic API key (For Claude integration)
-
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/anthropics/anthropic-quickstarts.git
-cd anthropic-quickstarts/financial-data-analyst
-```
-
-2. Install dependencies:
-```bash
-npm install
-```
-
-3. Create a `.env.local` file in the root directory:
-```env
-ANTHROPIC_API_KEY=your_api_key_here
-```
-
-4. Run the development server:
-```bash
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Technology Stack
 
